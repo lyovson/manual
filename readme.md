@@ -1,5 +1,6 @@
 ## Օպերատորի աշխատանքային ստանդարտները
 
+### Դրամապանակների կոդերը
 
 * Binance dash address: XhTghZgewK75KrD6qUpSrDvQSjWL3CpwN7
 
