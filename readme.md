@@ -6,10 +6,15 @@ Binance dash address: XhTghZgewK75KrD6qUpSrDvQSjWL3CpwN7
 Coinbase dash address: XqPHxrwuuQpgbx4tDrEMcg49WEggvDmanm
 
 USDT trc20: TQkfhDCtGzG4jJAcg5yK4E3GfnxfQW8nU5
+
 <details>
+    
     <summary>
+        
 ### Հաճախորդի հետ շփում
+        
         </summary>
+    
 1. Երբ հաճախորդը խոսում է «Դուք»-ով, միշտ պատասխանել «Դուք»-ով, «Ձեզ»-ով
 2. Հաճախորդին բարևել անհատական բարևելու ձևով
 4. Երբ գրում են անձնական պրոֆիլին, ուղղորդել օպերատորի պրոֆիլին
