@@ -7,12 +7,9 @@
 
 * USDT trc20: TQkfhDCtGzG4jJAcg5yK4E3GfnxfQW8nU5
 
-<details>
-    <summary> Տեղեկություն բանկերի մանսին </details>
+### Տեղեկություն բանկերի մանսին </details>
     
 ![image](https://user-images.githubusercontent.com/29226249/100756097-537bc300-3406-11eb-9bfc-a9c63c3c5760.png)
-    
-</details>
 
 ### Հաճախորդի հետ շփում
 
